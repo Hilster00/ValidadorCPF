@@ -1,3 +1,4 @@
+import ValidarCpf.py
 
 while True:
     try:
