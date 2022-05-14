@@ -8,9 +8,9 @@ while True:
         cpf=int(cpf)
         print(f'{cpf:0>11}',end='')
         if validar_cpf(cpf)==True:
-            print(' válido!')
+            print(' valido!')
         else:
-            print(' inválido!')
+            print(' invalido!')
     except:
         print(f'{cpf} não é um valor aceito')
         
