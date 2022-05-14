@@ -1,4 +1,4 @@
-import ValidarCpf.py
+import ValidarCPF.py
 
 while True:
     try:
