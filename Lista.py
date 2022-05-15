@@ -1,4 +1,4 @@
-from ValidarCpf import validar_cpf 
+from ValidarCPF.py import validar_cpf 
 
 #percorrer todo o intervalo de cpf 000.000.000-00 a 999.999.999-99
 print('Lista de cpf válidos')
