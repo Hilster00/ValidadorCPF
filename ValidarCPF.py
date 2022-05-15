@@ -1,4 +1,3 @@
-
 def validacao(cpf):
     cpf_valido=True
     
@@ -65,4 +64,4 @@ def validar_cpf(cpf): #só aceita cpf int ou str sem separadores ex:'12345678911
     else:
         print(f'{cpf} é invalido!')
     return cpf_valido
-  
+    
